@@ -1,4 +1,9 @@
-
+'''
+    Assignments: If Statements
+    Author: Andy Chow
+    Date Created: October 9, 2024
+    Date Last Modified: October 9, 2024
+'''
 
 def q1(): 
     num = input("In: ")
